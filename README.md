@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Yashas T P 👋
 
-<!--
-**Yashu112008/Yashu112008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Software & AI Engineer
 
-Here are some ideas to get you started:
+I'm a first-year **Information Science & Engineering student at REVA University, Bengaluru**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech Information Science & Engineering
+- 💻 Learning C, Python, HTML, CSS & JavaScript
+- 🤖 Exploring AI & Generative AI
+- 🔧 Learning Git & GitHub
+- 🚀 Building real-world projects
+- 🏆 Interested in Hackathons
+- 🎯 Goal: Become a Software & AI Engineer
+
+### 🛠️ Skills
+
+`C` `Python` `HTML` `CSS` `JavaScript` `Git` `GitHub` `AI`
+
+### 📌 Projects
+
+- 🏬 Mega Mall Management System
+- 🌱 SoilScript — Smart Agriculture Project
+- 🌐 Personal Portfolio Website
+
+### 🌐 Connect With Me
+
+**GitHub:** https://github.com/Yashu112008
+
+**LinkedIn:** https://www.linkedin.com/in/yashas-t-p-4a2b09423
+
+**Portfolio:** https://yashu-portfolioo.onrender.com
+
+---
+
+> Learn • Build • Improve 🚀
